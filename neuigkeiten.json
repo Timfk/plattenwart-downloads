@@ -1,0 +1,34 @@
+[
+  {
+    "version": "0.2.0",
+    "datum": "2026-11-11",
+    "notizen": [
+      "Englisch und Deutsch",
+      "Anmeldung mit E-Mail zuerst, Zwei-Faktor",
+      "Cloud-Ordner",
+      "Ende-zu-Ende-Verschlüsselung",
+      "Ganze Platte wird beim Anschließen aktualisiert, Ordner ignorieren"
+    ],
+    "notizen_en": [
+      "English and German",
+      "Sign-in with e-mail first, two-factor authentication",
+      "Cloud folders",
+      "End-to-end encryption",
+      "Drives refresh when connected, folders can be ignored"
+    ]
+  },
+  {
+    "version": "0.1.0",
+    "datum": "2026-11-10",
+    "notizen": [
+      "Erste Version: Platten registrieren, scannen und im Team gemeinsam ansehen",
+      "Backup-Ampel: sofort sehen, welche Ordner nur eine Kopie haben",
+      "Sichern-Assistent mit Prüfsumme, Suche über alle Platten"
+    ],
+    "notizen_en": [
+      "First version: register and scan drives, and view them together as a team",
+      "Backup traffic light: see at once which folders have only one copy",
+      "Backup assistant with checksum, search across all drives"
+    ]
+  }
+]
