@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.3.0",
+    "datum": "2026-11-11",
+    "notizen": [
+      "Ordner und Projekte auf eine andere Platte verschieben",
+      "An Kunden übergeben",
+      "Rechtsklick-Menü an Ordnern und Unterordnern",
+      "Platte eines anderen Kontos zusätzlich aufnehmen",
+      "Normale Platten mit altem Backup-Ordner werden nicht mehr gesperrt"
+    ],
+    "notizen_en": [
+      "Move folders and projects to another drive",
+      "Hand over to a client",
+      "Right-click menu on folders and subfolders",
+      "Add a drive that is already in another account",
+      "Regular drives with an old backup folder are no longer blocked"
+    ]
+  },
+  {
     "version": "0.2.0",
     "datum": "2026-11-11",
     "notizen": [
