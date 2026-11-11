@@ -1,16 +1,15 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "datum": "2026-11-11",
   "notizen": [
-    "Ordner und Projekte auf eine andere Platte verschieben",
-    "An Kunden übergeben",
-    "Rechtsklick-Menü an Ordnern und Unterordnern",
-    "Platte eines anderen Kontos zusätzlich aufnehmen",
-    "Normale Platten mit altem Backup-Ordner werden nicht mehr gesperrt"
+    "Platten privat oder im Team führen",
+    "Auslagern aus der Cloud auf eine Platte",
+    "Neuer Hauptort, wenn ein Projekt nur noch auf einer Platte liegt",
+    "Verschieben nimmt leere Ordner und Finder-Angaben mit"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.3.0/Plattenwart-0.3.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.3.0/Plattenwart-0.3.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.4.0/Plattenwart-0.4.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.4.0/Plattenwart-0.4.0.dmg"
   }
 }
