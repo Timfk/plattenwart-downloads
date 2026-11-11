@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.4.0",
+    "datum": "2026-11-11",
+    "notizen": [
+      "Platten privat oder im Team führen",
+      "Auslagern aus der Cloud auf eine Platte",
+      "Neuer Hauptort, wenn ein Projekt nur noch auf einer Platte liegt",
+      "Verschieben nimmt leere Ordner und Finder-Angaben mit"
+    ],
+    "notizen_en": [
+      "Keep drives private or share them with the team",
+      "Move projects off the cloud onto a drive",
+      "New main location when a project is left on one drive only",
+      "Moving now takes empty folders and Finder details along"
+    ]
+  },
+  {
     "version": "0.3.0",
     "datum": "2026-11-11",
     "notizen": [
