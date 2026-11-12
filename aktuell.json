@@ -1,14 +1,15 @@
 {
-  "version": "0.8.1",
+  "version": "0.9.0",
   "datum": "2026-11-12",
   "notizen": [
-    "Verschieben auf exFAT-Platten nimmt Finder-Tags und Kommentare mit",
-    "Zusammenführen-Fenster aufgeräumt",
-    "Startansicht zeigt nur die jüngste erledigte Meldung"
+    "Dateien direkt an einen anderen Rechner senden, Ende-zu-Ende verschlüsselt",
+    "Prüfcode zum Vergleichen auf beiden Rechnern",
+    "Fortsetzen nach unterbrochener Verbindung",
+    "Sichereres Schreiben am Ziel beim Kopieren"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.8.1/Plattenwart-0.8.1-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.8.1/Plattenwart-0.8.1.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.9.0/Plattenwart-0.9.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.9.0/Plattenwart-0.9.0.dmg"
   }
 }
