@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.9.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Dateien direkt an einen anderen Rechner senden, Ende-zu-Ende verschlüsselt",
+      "Prüfcode zum Vergleichen auf beiden Rechnern",
+      "Fortsetzen nach unterbrochener Verbindung",
+      "Sichereres Schreiben am Ziel beim Kopieren"
+    ],
+    "notizen_en": [
+      "Send files directly to another computer, end-to-end encrypted",
+      "Verification code to compare on both computers",
+      "Resume after a dropped connection",
+      "Safer writing at the destination when copying"
+    ]
+  },
+  {
     "version": "0.8.1",
     "datum": "2026-11-12",
     "notizen": [
