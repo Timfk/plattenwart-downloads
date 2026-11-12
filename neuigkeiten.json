@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.5.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Sammelordner und Als Projekt festlegen",
+      "Mehrere Ordner auswählen und übertragen",
+      "Neues Projekt mit Ordner-Vorlage",
+      "Import von Karte in ein Projekt",
+      "Zusammenführen zweier Kopien",
+      "Klares Ergebnis: alles übertragen und geprüft"
+    ],
+    "notizen_en": [
+      "Container folders and Set as project",
+      "Select several folders and transfer them",
+      "New project with a folder template",
+      "Import from a card into a project",
+      "Merge two copies",
+      "Clear result: everything transferred and verified"
+    ]
+  },
+  {
     "version": "0.4.0",
     "datum": "2026-11-11",
     "notizen": [
