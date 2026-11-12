@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.8.1",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Verschieben auf exFAT-Platten nimmt Finder-Tags und Kommentare mit",
+      "Zusammenführen-Fenster aufgeräumt",
+      "Startansicht zeigt nur die jüngste erledigte Meldung"
+    ],
+    "notizen_en": [
+      "Moving to exFAT drives keeps Finder tags and comments",
+      "Tidier merge window",
+      "Home view shows only the latest finished message"
+    ]
+  },
+  {
     "version": "0.8.0",
     "datum": "2026-11-12",
     "notizen": [
