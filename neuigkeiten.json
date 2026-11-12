@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.6.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Aufgeräumte Oberfläche: nur sichtbar, was man gerade braucht",
+      "Ein Knopf Sichern, der weiß, was gemeint ist",
+      "Vollständige Menüleiste mit allen Funktionen",
+      "Einstellungen in Reitern"
+    ],
+    "notizen_en": [
+      "Tidier interface: you only see what you need right now",
+      "One Back up button that knows what you mean",
+      "Complete menu bar with every function",
+      "Settings in tabs"
+    ]
+  },
+  {
     "version": "0.5.0",
     "datum": "2026-11-12",
     "notizen": [
