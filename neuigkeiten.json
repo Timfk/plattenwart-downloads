@@ -1,0 +1,136 @@
+[
+  {
+    "version": "0.8.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Öffnet ohne Apple-Sperre: signiert und von Apple beglaubigt",
+      "Import in ein vorhandenes Projekt funktioniert jetzt",
+      "Menü Ignorierte Ordner ist erreichbar",
+      "Kleinere Korrekturen an Texten und Abständen"
+    ],
+    "notizen_en": [
+      "Opens without the Apple warning: signed and notarized by Apple",
+      "Importing into an existing project now works",
+      "The Ignored folders menu item is reachable",
+      "Small fixes to texts and spacing"
+    ]
+  },
+  {
+    "version": "0.7.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Neue Startansicht: Zustand, Angeschlossen, Zu tun, Zuletzt",
+      "Details klappen von selbst auf, wenn du in ein Projekt gehst",
+      "Funktion wünschen oder Rückmeldung geben (Menü Hilfe)",
+      "Ruhigere Kopfleiste ohne großen Sichern-Knopf"
+    ],
+    "notizen_en": [
+      "New home view: status, connected, to do, recent",
+      "Details open by themselves when you go into a project",
+      "Request a feature or send feedback (Help menu)",
+      "Calmer header without the large Back up button"
+    ]
+  },
+  {
+    "version": "0.6.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Aufgeräumte Oberfläche: nur sichtbar, was man gerade braucht",
+      "Ein Knopf Sichern, der weiß, was gemeint ist",
+      "Vollständige Menüleiste mit allen Funktionen",
+      "Einstellungen in Reitern"
+    ],
+    "notizen_en": [
+      "Tidier interface: you only see what you need right now",
+      "One Back up button that knows what you mean",
+      "Complete menu bar with every function",
+      "Settings in tabs"
+    ]
+  },
+  {
+    "version": "0.5.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Sammelordner und Als Projekt festlegen",
+      "Mehrere Ordner auswählen und übertragen",
+      "Neues Projekt mit Ordner-Vorlage",
+      "Import von Karte in ein Projekt",
+      "Zusammenführen zweier Kopien",
+      "Klares Ergebnis: alles übertragen und geprüft"
+    ],
+    "notizen_en": [
+      "Container folders and Set as project",
+      "Select several folders and transfer them",
+      "New project with a folder template",
+      "Import from a card into a project",
+      "Merge two copies",
+      "Clear result: everything transferred and verified"
+    ]
+  },
+  {
+    "version": "0.4.0",
+    "datum": "2026-11-11",
+    "notizen": [
+      "Platten privat oder im Team führen",
+      "Auslagern aus der Cloud auf eine Platte",
+      "Neuer Hauptort, wenn ein Projekt nur noch auf einer Platte liegt",
+      "Verschieben nimmt leere Ordner und Finder-Angaben mit"
+    ],
+    "notizen_en": [
+      "Keep drives private or share them with the team",
+      "Move projects off the cloud onto a drive",
+      "New main location when a project is left on one drive only",
+      "Moving now takes empty folders and Finder details along"
+    ]
+  },
+  {
+    "version": "0.3.0",
+    "datum": "2026-11-11",
+    "notizen": [
+      "Ordner und Projekte auf eine andere Platte verschieben",
+      "An Kunden übergeben",
+      "Rechtsklick-Menü an Ordnern und Unterordnern",
+      "Platte eines anderen Kontos zusätzlich aufnehmen",
+      "Normale Platten mit altem Backup-Ordner werden nicht mehr gesperrt"
+    ],
+    "notizen_en": [
+      "Move folders and projects to another drive",
+      "Hand over to a client",
+      "Right-click menu on folders and subfolders",
+      "Add a drive that is already in another account",
+      "Regular drives with an old backup folder are no longer blocked"
+    ]
+  },
+  {
+    "version": "0.2.0",
+    "datum": "2026-11-11",
+    "notizen": [
+      "Englisch und Deutsch",
+      "Anmeldung mit E-Mail zuerst, Zwei-Faktor",
+      "Cloud-Ordner",
+      "Ende-zu-Ende-Verschlüsselung",
+      "Ganze Platte wird beim Anschließen aktualisiert, Ordner ignorieren"
+    ],
+    "notizen_en": [
+      "English and German",
+      "Sign-in with e-mail first, two-factor authentication",
+      "Cloud folders",
+      "End-to-end encryption",
+      "Drives refresh when connected, folders can be ignored"
+    ]
+  },
+  {
+    "version": "0.1.0",
+    "datum": "2026-11-10",
+    "notizen": [
+      "Erste Version: Platten registrieren, scannen und im Team gemeinsam ansehen",
+      "Backup-Ampel: sofort sehen, welche Ordner nur eine Kopie haben",
+      "Sichern-Assistent mit Prüfsumme, Suche über alle Platten"
+    ],
+    "notizen_en": [
+      "First version: register and scan drives, and view them together as a team",
+      "Backup traffic light: see at once which folders have only one copy",
+      "Backup assistant with checksum, search across all drives"
+    ]
+  }
+]
