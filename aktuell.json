@@ -1,17 +1,15 @@
 {
-  "version": "0.5.0",
+  "version": "0.6.0",
   "datum": "2026-11-12",
   "notizen": [
-    "Sammelordner und Als Projekt festlegen",
-    "Mehrere Ordner auswählen und übertragen",
-    "Neues Projekt mit Ordner-Vorlage",
-    "Import von Karte in ein Projekt",
-    "Zusammenführen zweier Kopien",
-    "Klares Ergebnis: alles übertragen und geprüft"
+    "Aufgeräumte Oberfläche: nur sichtbar, was man gerade braucht",
+    "Ein Knopf Sichern, der weiß, was gemeint ist",
+    "Vollständige Menüleiste mit allen Funktionen",
+    "Einstellungen in Reitern"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.5.0/Plattenwart-0.5.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.5.0/Plattenwart-0.5.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.6.0/Plattenwart-0.6.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.6.0/Plattenwart-0.6.0.dmg"
   }
 }
