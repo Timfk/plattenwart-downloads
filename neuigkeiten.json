@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.7.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Neue Startansicht: Zustand, Angeschlossen, Zu tun, Zuletzt",
+      "Details klappen von selbst auf, wenn du in ein Projekt gehst",
+      "Funktion wünschen oder Rückmeldung geben (Menü Hilfe)",
+      "Ruhigere Kopfleiste ohne großen Sichern-Knopf"
+    ],
+    "notizen_en": [
+      "New home view: status, connected, to do, recent",
+      "Details open by themselves when you go into a project",
+      "Request a feature or send feedback (Help menu)",
+      "Calmer header without the large Back up button"
+    ]
+  },
+  {
     "version": "0.6.0",
     "datum": "2026-11-12",
     "notizen": [
