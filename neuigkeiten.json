@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.8.0",
+    "datum": "2026-11-12",
+    "notizen": [
+      "Öffnet ohne Apple-Sperre: signiert und von Apple beglaubigt",
+      "Import in ein vorhandenes Projekt funktioniert jetzt",
+      "Menü Ignorierte Ordner ist erreichbar",
+      "Kleinere Korrekturen an Texten und Abständen"
+    ],
+    "notizen_en": [
+      "Opens without the Apple warning: signed and notarized by Apple",
+      "Importing into an existing project now works",
+      "The Ignored folders menu item is reachable",
+      "Small fixes to texts and spacing"
+    ]
+  },
+  {
     "version": "0.7.0",
     "datum": "2026-11-12",
     "notizen": [
