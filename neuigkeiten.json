@@ -1,5 +1,27 @@
 [
   {
+    "version": "0.11.0",
+    "datum": "2026-11-13",
+    "notizen": [
+      "Neues Fenster zum Übertragen: Sichern, Verschieben und Übergeben an einem Ort",
+      "Haken ganz links in jeder Zeile, Ordner lassen sich aufklappen und einzeln an- oder abwählen",
+      "Ablageort auf der Zielplatte frei wählbar, auch mit neuem Ordner",
+      "Bei tief liegenden Ordnern wählst du, welche Ordner davor mitkommen",
+      "Vorschau zeigt, wie es danach auf der Zielplatte liegt",
+      "Warteschlange: mehrere Aufträge laufen nacheinander, jeder wird Datei für Datei geprüft",
+      "Fehlt eine Platte, wartet der Auftrag; nach einem Neustart fragt die App, ob sie fortsetzen soll"
+    ],
+    "notizen_en": [
+      "New transfer window: back up, move and hand over in one place",
+      "Checkboxes on the far left of every row; folders expand so you can pick or skip subfolders",
+      "Choose where things land on the target drive, including a new folder",
+      "For deeply nested folders, choose which parent folders come along",
+      "A preview shows how it will look on the target drive",
+      "Queue: several jobs run one after another, each verified file by file",
+      "If a drive is missing the job waits; after a restart the app asks whether to continue"
+    ]
+  },
+  {
     "version": "0.10.1",
     "datum": "2026-11-13",
     "notizen": [
