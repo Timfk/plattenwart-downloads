@@ -1,18 +1,15 @@
 {
-  "version": "0.11.0",
+  "version": "0.11.1",
   "datum": "2026-11-13",
   "notizen": [
-    "Neues Fenster zum Übertragen: Sichern, Verschieben und Übergeben an einem Ort",
-    "Haken ganz links in jeder Zeile, Ordner lassen sich aufklappen und einzeln an- oder abwählen",
-    "Ablageort auf der Zielplatte frei wählbar, auch mit neuem Ordner",
-    "Bei tief liegenden Ordnern wählst du, welche Ordner davor mitkommen",
-    "Vorschau zeigt, wie es danach auf der Zielplatte liegt",
-    "Warteschlange: mehrere Aufträge laufen nacheinander, jeder wird Datei für Datei geprüft",
-    "Fehlt eine Platte, wartet der Auftrag; nach einem Neustart fragt die App, ob sie fortsetzen soll"
+    "Behoben: „Als Projekt festlegen“ in einem Unterordner ließ den übergeordneten Ordner aus der App verschwinden",
+    "Platte neu scannen stellt die fehlenden Ordner wieder her; auf der Platte selbst wurde nie etwas verändert",
+    "Der Scan bricht an beschädigten Einträgen nicht mehr ab",
+    "Findet der Scan einen Projektordner nicht mehr, bleibt der Eintrag stehen und lässt sich neu zuordnen"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.11.0/Plattenwart-0.11.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.11.0/Plattenwart-0.11.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.11.1/Plattenwart-0.11.1-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.11.1/Plattenwart-0.11.1.dmg"
   }
 }
