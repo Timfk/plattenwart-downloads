@@ -1,5 +1,17 @@
 [
   {
+    "version": "0.10.1",
+    "datum": "2026-11-13",
+    "notizen": [
+      "Erstes Update, das sich selbst installiert",
+      "Datenschutzerklärung nennt den Update-Abruf bei GitHub"
+    ],
+    "notizen_en": [
+      "First update that installs itself",
+      "Privacy policy mentions the update check at GitHub"
+    ]
+  },
+  {
     "version": "0.10.0",
     "datum": "2026-11-13",
     "notizen": [
