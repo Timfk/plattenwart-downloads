@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.11.1",
+    "datum": "2026-11-13",
+    "notizen": [
+      "Behoben: „Als Projekt festlegen“ in einem Unterordner ließ den übergeordneten Ordner aus der App verschwinden",
+      "Platte neu scannen stellt die fehlenden Ordner wieder her; auf der Platte selbst wurde nie etwas verändert",
+      "Der Scan bricht an beschädigten Einträgen nicht mehr ab",
+      "Findet der Scan einen Projektordner nicht mehr, bleibt der Eintrag stehen und lässt sich neu zuordnen"
+    ],
+    "notizen_en": [
+      "Fixed: \"Set as project\" inside a subfolder made the parent folder disappear from the app",
+      "Rescanning the drive restores the missing folders; nothing on the drive itself was ever changed",
+      "The scan no longer stops on damaged entries",
+      "If the scan cannot find a project folder any more, the entry stays and can be reassigned"
+    ]
+  },
+  {
     "version": "0.11.0",
     "datum": "2026-11-13",
     "notizen": [
