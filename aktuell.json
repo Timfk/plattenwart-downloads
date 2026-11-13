@@ -1,15 +1,14 @@
 {
-  "version": "0.9.0",
-  "datum": "2026-11-12",
+  "version": "0.10.0",
+  "datum": "2026-11-13",
   "notizen": [
-    "Dateien direkt an einen anderen Rechner senden, Ende-zu-Ende verschlüsselt",
-    "Prüfcode zum Vergleichen auf beiden Rechnern",
-    "Fortsetzen nach unterbrochener Verbindung",
-    "Sichereres Schreiben am Ziel beim Kopieren"
+    "Plattenwart aktualisiert sich künftig selbst",
+    "Updates warten, bis kein Vorgang mehr läuft",
+    "Schalter für automatische Updates in den Einstellungen"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.9.0/Plattenwart-0.9.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.9.0/Plattenwart-0.9.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.10.0/Plattenwart-0.10.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.10.0/Plattenwart-0.10.0.dmg"
   }
 }
