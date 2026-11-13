@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.10.0",
+    "datum": "2026-11-13",
+    "notizen": [
+      "Plattenwart aktualisiert sich künftig selbst",
+      "Updates warten, bis kein Vorgang mehr läuft",
+      "Schalter für automatische Updates in den Einstellungen"
+    ],
+    "notizen_en": [
+      "Plattenwart now updates itself",
+      "Updates wait until no task is running",
+      "Switch for automatic updates in Settings"
+    ]
+  },
+  {
     "version": "0.9.0",
     "datum": "2026-11-12",
     "notizen": [
