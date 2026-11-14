@@ -1,5 +1,27 @@
 [
   {
+    "version": "0.13.0",
+    "datum": "2026-11-14",
+    "notizen": [
+      "Nach dem Dreh: SD-Karte importieren, Projekt anlegen und Backup-Ziele in einem Fenster wählen",
+      "Eine Vorlage als Standard festlegen; sie gilt für jedes neue Projekt",
+      "Dateien der Karte werden nach Vorlage einsortiert: Video, Ton, Foto, wahlweise je Kamera und Drehtag",
+      "„Karte kann formatiert werden“ erscheint erst, wenn jede Datei auf Hauptplatte und Backup per Prüfsumme bestätigt ist",
+      "Neue Anmeldung: E-Mail und Passwort auf einem Schirm, die App verrät nicht mehr, ob es ein Konto gibt",
+      "Wiederherstellungsschlüssel neu erzeugen ist sicherer: Der alte gilt, bis du den neuen gesichert hast",
+      "Sicherheit: mehrere Schwachstellen auf dem Server geschlossen"
+    ],
+    "notizen_en": [
+      "After the shoot: import an SD card, create the project and pick backup targets in one window",
+      "Set one template as the default; it applies to every new project",
+      "Card files are sorted by template: video, audio, photo, optionally per camera and shooting day",
+      "\"Card can be formatted\" only appears once every file is verified by checksum on the main drive and the backup",
+      "New sign-in: email and password on one screen; the app no longer reveals whether an account exists",
+      "Regenerating the recovery key is safer: the old one stays valid until you have saved the new one",
+      "Security: several server-side weaknesses closed"
+    ]
+  },
+  {
     "version": "0.12.0",
     "datum": "2026-11-14",
     "notizen": [
