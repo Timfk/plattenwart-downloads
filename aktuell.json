@@ -1,15 +1,18 @@
 {
-  "version": "0.11.1",
-  "datum": "2026-11-13",
+  "version": "0.12.0",
+  "datum": "2026-11-14",
   "notizen": [
-    "Behoben: „Als Projekt festlegen“ in einem Unterordner ließ den übergeordneten Ordner aus der App verschwinden",
-    "Platte neu scannen stellt die fehlenden Ordner wieder her; auf der Platte selbst wurde nie etwas verändert",
-    "Der Scan bricht an beschädigten Einträgen nicht mehr ab",
-    "Findet der Scan einen Projektordner nicht mehr, bleibt der Eintrag stehen und lässt sich neu zuordnen"
+    "Mehrere angehakte Ordner auf einmal als Projekte übernehmen",
+    "Neuer Bereich „Übertragungen“: Warteschlange, Verlauf mit Ergebnis und Fehlermeldung, „Neue Übertragung“",
+    "Seitenleiste: Projekte, Platten und Übertragungen sind immer aufgeklappt, das Konto steht wieder unten links",
+    "Einstellungen öffnen sich als Fenster über der aktuellen Ansicht",
+    "Haken der Unterordner rücken beim Aufklappen mit ein",
+    "„Rückgängig“ statt Rückfrage bei Ordner ignorieren, Vorlage löschen und Kunde löschen",
+    "Behoben: Ein sehr früher Klick auf „Anhalten“ oder „Abbrechen“ ging verloren"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.11.1/Plattenwart-0.11.1-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.11.1/Plattenwart-0.11.1.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.12.0/Plattenwart-0.12.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.12.0/Plattenwart-0.12.0.dmg"
   }
 }
