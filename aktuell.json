@@ -1,18 +1,18 @@
 {
-  "version": "0.12.0",
+  "version": "0.13.0",
   "datum": "2026-11-14",
   "notizen": [
-    "Mehrere angehakte Ordner auf einmal als Projekte übernehmen",
-    "Neuer Bereich „Übertragungen“: Warteschlange, Verlauf mit Ergebnis und Fehlermeldung, „Neue Übertragung“",
-    "Seitenleiste: Projekte, Platten und Übertragungen sind immer aufgeklappt, das Konto steht wieder unten links",
-    "Einstellungen öffnen sich als Fenster über der aktuellen Ansicht",
-    "Haken der Unterordner rücken beim Aufklappen mit ein",
-    "„Rückgängig“ statt Rückfrage bei Ordner ignorieren, Vorlage löschen und Kunde löschen",
-    "Behoben: Ein sehr früher Klick auf „Anhalten“ oder „Abbrechen“ ging verloren"
+    "Nach dem Dreh: SD-Karte importieren, Projekt anlegen und Backup-Ziele in einem Fenster wählen",
+    "Eine Vorlage als Standard festlegen; sie gilt für jedes neue Projekt",
+    "Dateien der Karte werden nach Vorlage einsortiert: Video, Ton, Foto, wahlweise je Kamera und Drehtag",
+    "„Karte kann formatiert werden“ erscheint erst, wenn jede Datei auf Hauptplatte und Backup per Prüfsumme bestätigt ist",
+    "Neue Anmeldung: E-Mail und Passwort auf einem Schirm, die App verrät nicht mehr, ob es ein Konto gibt",
+    "Wiederherstellungsschlüssel neu erzeugen ist sicherer: Der alte gilt, bis du den neuen gesichert hast",
+    "Sicherheit: mehrere Schwachstellen auf dem Server geschlossen"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.12.0/Plattenwart-0.12.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.12.0/Plattenwart-0.12.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.13.0/Plattenwart-0.13.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.13.0/Plattenwart-0.13.0.dmg"
   }
 }
