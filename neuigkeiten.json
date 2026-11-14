@@ -1,5 +1,27 @@
 [
   {
+    "version": "0.12.0",
+    "datum": "2026-11-14",
+    "notizen": [
+      "Mehrere angehakte Ordner auf einmal als Projekte übernehmen",
+      "Neuer Bereich „Übertragungen“: Warteschlange, Verlauf mit Ergebnis und Fehlermeldung, „Neue Übertragung“",
+      "Seitenleiste: Projekte, Platten und Übertragungen sind immer aufgeklappt, das Konto steht wieder unten links",
+      "Einstellungen öffnen sich als Fenster über der aktuellen Ansicht",
+      "Haken der Unterordner rücken beim Aufklappen mit ein",
+      "„Rückgängig“ statt Rückfrage bei Ordner ignorieren, Vorlage löschen und Kunde löschen",
+      "Behoben: Ein sehr früher Klick auf „Anhalten“ oder „Abbrechen“ ging verloren"
+    ],
+    "notizen_en": [
+      "Turn several checked folders into projects in one step",
+      "New \"Transfers\" area: queue, history with result and error message, \"New transfer\"",
+      "Sidebar: projects, drives and transfers are always expanded; the account is back at the bottom left",
+      "Settings open as a window above the current view",
+      "Subfolder checkboxes are indented when a folder is expanded",
+      "\"Undo\" instead of a confirmation for ignoring a folder, deleting a template or deleting a client",
+      "Fixed: a very early click on \"Pause\" or \"Cancel\" was lost"
+    ]
+  },
+  {
     "version": "0.11.1",
     "datum": "2026-11-13",
     "notizen": [
