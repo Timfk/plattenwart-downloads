@@ -1,5 +1,27 @@
 [
   {
+    "version": "0.14.0",
+    "datum": "2026-11-15",
+    "notizen": [
+      "Die Platten-Ansicht zeigt jetzt die echte Ordnerstruktur: Projekte bleiben in ihrem Ordner, statt neben ihm zu stehen",
+      "Backups auf anderen Platten erkennt Plattenwart beim Scannen: gleicher Ordner mit gleichem Inhalt wird als ein Projekt verknüpft, bei Unterschieden fragt es nach",
+      "Die Arbeitskopie folgt der Änderung: Wurde nur in einer Backup-Kopie gearbeitet, wird sie zur Arbeitskopie",
+      "Wurde in zwei Kopien gearbeitet, meldet sich das Projekt als „nicht synchron“ und du wählst, wie sie zusammenkommen",
+      "Gleichnamige Ordner beim Übertragen und Importieren: Gleiches wird still übersprungen, Abweichendes fragt dich vorher",
+      "Strengerer Schutz: Nichts wird ersetzt oder in den Papierkorb gelegt, ohne dass du die Liste siehst und bestätigst",
+      "Der automatische Abgleich ergänzt nur noch und ersetzt nie eine Datei"
+    ],
+    "notizen_en": [
+      "The disk view now shows the real folder structure: projects stay inside their folder instead of appearing next to it",
+      "Plattenwart recognises backups on other disks while scanning: the same folder with the same content is linked as one project, and it asks when they differ",
+      "The working copy follows the change: if only a backup copy was worked on, it becomes the working copy",
+      "If two copies were worked on, the project is flagged as \"out of sync\" and you choose how they are brought together",
+      "Folders with the same name when transferring or importing: identical files are skipped quietly, differing ones ask you first",
+      "Stricter protection: nothing is replaced or moved to the Trash without showing you the list and asking you to confirm",
+      "The automatic sync now only adds missing files and never replaces one"
+    ]
+  },
+  {
     "version": "0.13.0",
     "datum": "2026-11-14",
     "notizen": [
