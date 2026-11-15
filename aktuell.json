@@ -1,18 +1,18 @@
 {
-  "version": "0.13.0",
-  "datum": "2026-11-14",
+  "version": "0.14.0",
+  "datum": "2026-11-15",
   "notizen": [
-    "Nach dem Dreh: SD-Karte importieren, Projekt anlegen und Backup-Ziele in einem Fenster wählen",
-    "Eine Vorlage als Standard festlegen; sie gilt für jedes neue Projekt",
-    "Dateien der Karte werden nach Vorlage einsortiert: Video, Ton, Foto, wahlweise je Kamera und Drehtag",
-    "„Karte kann formatiert werden“ erscheint erst, wenn jede Datei auf Hauptplatte und Backup per Prüfsumme bestätigt ist",
-    "Neue Anmeldung: E-Mail und Passwort auf einem Schirm, die App verrät nicht mehr, ob es ein Konto gibt",
-    "Wiederherstellungsschlüssel neu erzeugen ist sicherer: Der alte gilt, bis du den neuen gesichert hast",
-    "Sicherheit: mehrere Schwachstellen auf dem Server geschlossen"
+    "Die Platten-Ansicht zeigt jetzt die echte Ordnerstruktur: Projekte bleiben in ihrem Ordner, statt neben ihm zu stehen",
+    "Backups auf anderen Platten erkennt Plattenwart beim Scannen: gleicher Ordner mit gleichem Inhalt wird als ein Projekt verknüpft, bei Unterschieden fragt es nach",
+    "Die Arbeitskopie folgt der Änderung: Wurde nur in einer Backup-Kopie gearbeitet, wird sie zur Arbeitskopie",
+    "Wurde in zwei Kopien gearbeitet, meldet sich das Projekt als „nicht synchron“ und du wählst, wie sie zusammenkommen",
+    "Gleichnamige Ordner beim Übertragen und Importieren: Gleiches wird still übersprungen, Abweichendes fragt dich vorher",
+    "Strengerer Schutz: Nichts wird ersetzt oder in den Papierkorb gelegt, ohne dass du die Liste siehst und bestätigst",
+    "Der automatische Abgleich ergänzt nur noch und ersetzt nie eine Datei"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.13.0/Plattenwart-0.13.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.13.0/Plattenwart-0.13.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.0/Plattenwart-0.14.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.0/Plattenwart-0.14.0.dmg"
   }
 }
