@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.14.1",
+    "datum": "2026-11-16",
+    "notizen": [
+      "Neu in der Platten-Ansicht: Jedes Projekt zeigt mit Punkt und Text, ob und auf welcher anderen Platte es gesichert ist (vollständig, teilweise oder nur hier)",
+      "Aufgeklappt zeigt jeder Unterordner, auf welchen Platten er liegt; im Detailbereich listet „Gesichert auf“ je Platte, wie viele Dateien dort sind und was fehlt",
+      "Grundlage ist der letzte Scan (Namen und Größen); ist eine Dateiliste nicht vollständig, steht „Unbekannt – Platte neu scannen“ statt einer Farbe"
+    ],
+    "notizen_en": [
+      "New in the disk view: each project shows with a dot and text whether and on which other disk it is backed up (complete, partly or only here)",
+      "Expanded, every subfolder shows which disks it is on; in the details pane \"Backed up on\" lists per disk how many files are there and what is missing",
+      "It is based on the last scan (names and sizes); if a file list is incomplete, it says \"Unknown – rescan the drive\" instead of a colour"
+    ]
+  },
+  {
     "version": "0.14.0",
     "datum": "2026-11-15",
     "notizen": [
