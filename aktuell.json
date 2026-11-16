@@ -1,18 +1,14 @@
 {
-  "version": "0.14.0",
-  "datum": "2026-11-15",
+  "version": "0.14.1",
+  "datum": "2026-11-16",
   "notizen": [
-    "Die Platten-Ansicht zeigt jetzt die echte Ordnerstruktur: Projekte bleiben in ihrem Ordner, statt neben ihm zu stehen",
-    "Backups auf anderen Platten erkennt Plattenwart beim Scannen: gleicher Ordner mit gleichem Inhalt wird als ein Projekt verknüpft, bei Unterschieden fragt es nach",
-    "Die Arbeitskopie folgt der Änderung: Wurde nur in einer Backup-Kopie gearbeitet, wird sie zur Arbeitskopie",
-    "Wurde in zwei Kopien gearbeitet, meldet sich das Projekt als „nicht synchron“ und du wählst, wie sie zusammenkommen",
-    "Gleichnamige Ordner beim Übertragen und Importieren: Gleiches wird still übersprungen, Abweichendes fragt dich vorher",
-    "Strengerer Schutz: Nichts wird ersetzt oder in den Papierkorb gelegt, ohne dass du die Liste siehst und bestätigst",
-    "Der automatische Abgleich ergänzt nur noch und ersetzt nie eine Datei"
+    "Neu in der Platten-Ansicht: Jedes Projekt zeigt mit Punkt und Text, ob und auf welcher anderen Platte es gesichert ist (vollständig, teilweise oder nur hier)",
+    "Aufgeklappt zeigt jeder Unterordner, auf welchen Platten er liegt; im Detailbereich listet „Gesichert auf“ je Platte, wie viele Dateien dort sind und was fehlt",
+    "Grundlage ist der letzte Scan (Namen und Größen); ist eine Dateiliste nicht vollständig, steht „Unbekannt – Platte neu scannen“ statt einer Farbe"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.0/Plattenwart-0.14.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.0/Plattenwart-0.14.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.1/Plattenwart-0.14.1-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.1/Plattenwart-0.14.1.dmg"
   }
 }
