@@ -1,14 +1,25 @@
 {
-  "version": "0.14.1",
-  "datum": "2026-11-16",
+  "version": "0.15.0",
+  "datum": "2026-11-17",
   "notizen": [
-    "Neu in der Platten-Ansicht: Jedes Projekt zeigt mit Punkt und Text, ob und auf welcher anderen Platte es gesichert ist (vollständig, teilweise oder nur hier)",
-    "Aufgeklappt zeigt jeder Unterordner, auf welchen Platten er liegt; im Detailbereich listet „Gesichert auf“ je Platte, wie viele Dateien dort sind und was fehlt",
-    "Grundlage ist der letzte Scan (Namen und Größen); ist eine Dateiliste nicht vollständig, steht „Unbekannt – Platte neu scannen“ statt einer Farbe"
+    "Schnelleres Kopieren: Erst wird kopiert, die Prüfung folgt am Ende (Einstellung „Nach dem Kopieren prüfen“); der Fortschritt zeigt Kopieren und Prüfen getrennt, eine offene Prüfung wird später fortgesetzt",
+    "Import von der Karte: Standardmäßig kommen nur Video, Foto und Ton mit; Drehtag- und Kamera-Ordner sind wählbar, Kartenordner ordnest du per Ziehen zu, und Plattenwart merkt sich das",
+    "Aufgeräumte Oberfläche: weniger Text, Erklärungen hinter einem Info-Symbol, Symbole statt Textknöpfe, eine einzige Meldungsleiste, Filter hinter einem Symbol, Spalten ein- und ausblendbar",
+    "Der Inhalt einer Kamerakarte oder neuen Platte ist sofort sichtbar, dazu was davon schon importiert ist",
+    "Neue Vorlage „Mehrtägiger Dreh“ (Footage je Kamera und Drehtag); im Vorlagen-Editor ein größerer Baum mit klarer Einrückung",
+    "Einfachere Befehle: Statt vieler Einzel-Knöpfe gibt es „Kopieren …“ mit klarer Vorschau; Kamerakarten sind eine eigene Gruppe und lassen sich mit einem Klick importieren",
+    "Verteilte Projekte über mehrere Platten, Warnung bei einem Teil ohne Backup; Hinweis, wenn ein Projekt mehr Kopien hat als nötig",
+    "Mehr Sicherheit im Team: Rollen, Papierkorb und Protokoll; gesperrte oder entfernte Konten treten erst nach deiner Freigabe wieder bei",
+    "Profil mit Bild und mehrere Arbeitsbereiche, zwischen denen du wechselst",
+    "Schnellerer Start, Vollbild und breite Fenster: Listen füllen den Platz, Spalten und Leisten lassen sich ziehen"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.1/Plattenwart-0.14.1-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.14.1/Plattenwart-0.14.1.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.0/Plattenwart-0.15.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.0/Plattenwart-0.15.0.dmg"
+  },
+  "sha256": {
+    "mac-arm64": "67ae5b8138a97d73cb461a4ce6ab80ac56da34807a02fdeaf0fdaf23396c70d2",
+    "mac-x64": "ce32bef629419b40f0c3c0e72f7d4c93b118fbdad346ec62fe3a9b7cbed25b55"
   }
 }
