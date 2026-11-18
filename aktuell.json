@@ -1,24 +1,16 @@
 {
-  "version": "0.15.1",
+  "version": "0.15.2",
   "datum": "2026-11-18",
   "notizen": [
-    "Unter „Nach Updates suchen“ in den Einstellungen steht jetzt immer ein klarer Stand: „Jetzt installieren“ bzw. „Neu starten und installieren“ oder in einem Satz der Grund, warum es gerade nicht geht, mit „Erneut versuchen“",
-    "Abmelden und „Konto löschen …“ stehen zusammen unten im Profil, ohne eigene Überschrift",
-    "Einstellungen ▸ Allgemein: Ausgeblendete Platten als Liste mit Plus; „Empfangen von Übertragungen“ ist aus der Ansicht „Übertragungen“ hierher umgezogen",
-    "Pro Einstellung nur noch ein Info-Symbol (zum Beispiel bei den Updates)",
-    "Neuer Knopf „Rückmeldung geben …“ unter „Hilfe und Rechtliches“",
-    "Zusammenarbeit: Die Reiterliste springt nicht mehr; „Meine Arbeitsbereiche“ erscheint erst, wenn es mehr als einen Bereich oder weitere Mitglieder gibt; Einladen und Beitreten stehen ohne Zwischenüberschriften",
-    "Vorlagen: Bearbeiten und Löschen sind an jeder Zeile sofort da, auch bei den mitgelieferten Vorlagen (vorher musste man erst den Stern an- und ausschalten)",
-    "Projekt-Ansicht rechts: Eigenschaften und Notiz sind immer aufgeklappt, das Bild hat eine Überschrift, die Felder haben Abstand",
-    "Info-Texte hinter dem Info-Symbol liegen jetzt immer im Vordergrund und bleiben ganz im Fenster, auch am Rand der Einstellungen"
+    "Dateilisten: Sehr große alte Dateilisten werden im Hintergrund jetzt in kleinen Schritten umgestellt (weniger Speicher, bei Netzfehlern erneuter Versuch); was nicht klappt, steht unter Einstellungen ▸ Allgemein mit Grund und wird automatisch nach 1, 6 und 24 Stunden erneut versucht"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.1/Plattenwart-0.15.1-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.1/Plattenwart-0.15.1.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.2/Plattenwart-0.15.2-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.2/Plattenwart-0.15.2.dmg"
   },
   "sha256": {
-    "mac-arm64": "d4f2cb29889bebbc7de13b71d5adac0299424f26a9cc2767c0148ee2bbec4e39",
-    "mac-x64": "2aa8099bb7baf99fe83e86f72c69609f64f58df28ef4d1a6f11e83868dcdeee3"
+    "mac-arm64": "aa01da46f359265641a8634c0f5ae822213b2fdab3d18f3827169e0c75912fe6",
+    "mac-x64": "8ee2f7d7d92820bf0549c4684e314ecfe487e1a92536d6458e5cca39d05819a4"
   }
 }
