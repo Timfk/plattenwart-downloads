@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.15.3",
+    "datum": "2026-11-18",
+    "notizen": [
+      "Scan: Nach einem Scan zeigt der Katalog die Platte genau so, wie sie jetzt ist. Ein im Finder verschobener, umbenannter oder gelöschter Ordner steht nicht mehr im alten Überordner; ein verschobener Projektordner nimmt seine Projekt-Zuordnung mit, wenn er zweifelsfrei wiedererkannt wird",
+      "Platte: Hat sich bei einem Scan sehr viel geändert, fragt Plattenwart nach, ob es dieselbe Platte ist, bevor es etwas speichert. Bei „Andere Platte“ wird sie neu angelegt, die bisherige bleibt im Katalog",
+      "Umbenennen: Ordner und Dateien lassen sich per Rechtsklick „Umbenennen …“ auch auf der Platte umbenennen, solange sie an diesem Gerät hängt und eine Plattenwart-Kennung trägt. Es wird dabei nie etwas überschrieben"
+    ],
+    "notizen_en": [
+      "Scan: After a scan the catalog shows the disk exactly as it is now. A folder moved, renamed or deleted in the Finder no longer stays in its old parent folder; a moved project folder keeps its project assignment when it is recognised beyond doubt",
+      "Disks: If a scan finds that a lot has changed, Plattenwart asks whether it is the same disk before saving anything. With “Different disk” it is added as a new disk and the previous one stays in the catalog",
+      "Rename: Folders and files can be renamed with right-click “Rename …” on the disk itself, as long as it is connected to this device and carries a Plattenwart ID. Nothing is ever overwritten"
+    ]
+  },
+  {
     "version": "0.15.2",
     "datum": "2026-11-18",
     "notizen": [
