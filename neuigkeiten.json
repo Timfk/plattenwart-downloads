@@ -1,5 +1,31 @@
 [
   {
+    "version": "0.15.1",
+    "datum": "2026-11-18",
+    "notizen": [
+      "Unter „Nach Updates suchen“ in den Einstellungen steht jetzt immer ein klarer Stand: „Jetzt installieren“ bzw. „Neu starten und installieren“ oder in einem Satz der Grund, warum es gerade nicht geht, mit „Erneut versuchen“",
+      "Abmelden und „Konto löschen …“ stehen zusammen unten im Profil, ohne eigene Überschrift",
+      "Einstellungen ▸ Allgemein: Ausgeblendete Platten als Liste mit Plus; „Empfangen von Übertragungen“ ist aus der Ansicht „Übertragungen“ hierher umgezogen",
+      "Pro Einstellung nur noch ein Info-Symbol (zum Beispiel bei den Updates)",
+      "Neuer Knopf „Rückmeldung geben …“ unter „Hilfe und Rechtliches“",
+      "Zusammenarbeit: Die Reiterliste springt nicht mehr; „Meine Arbeitsbereiche“ erscheint erst, wenn es mehr als einen Bereich oder weitere Mitglieder gibt; Einladen und Beitreten stehen ohne Zwischenüberschriften",
+      "Vorlagen: Bearbeiten und Löschen sind an jeder Zeile sofort da, auch bei den mitgelieferten Vorlagen (vorher musste man erst den Stern an- und ausschalten)",
+      "Projekt-Ansicht rechts: Eigenschaften und Notiz sind immer aufgeklappt, das Bild hat eine Überschrift, die Felder haben Abstand",
+      "Info-Texte hinter dem Info-Symbol liegen jetzt immer im Vordergrund und bleiben ganz im Fenster, auch am Rand der Einstellungen"
+    ],
+    "notizen_en": [
+      "Under “Check for updates” in the settings you now always see a clear state: “Install now” or “Restart and install”, or in one sentence why it cannot be installed right now, with “Try again”",
+      "Sign out and “Delete account …” now sit together at the bottom of the profile, without a heading of their own",
+      "Settings ▸ General: hidden drives as a list with a plus; “Receive transfers” moved here from the Transfers view",
+      "Only one info icon per setting (for example next to the updates)",
+      "New button “Give feedback …” under “Help and legal”",
+      "Collaboration: the tab list no longer jumps; “My workspaces” only appears when there is more than one workspace or other members; inviting and joining have no extra headings",
+      "Templates: edit and delete are right there on every row, including the built-in templates (before, you had to switch the star on and off first)",
+      "Project panel on the right: properties and note are always open, the picture has a heading, the fields have spacing",
+      "Info texts behind the info icon now always appear in front and stay fully inside the window, even at the edge of the settings"
+    ]
+  },
+  {
     "version": "0.15.0",
     "datum": "2026-11-17",
     "notizen": [
