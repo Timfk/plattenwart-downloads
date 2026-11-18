@@ -1,25 +1,24 @@
 {
-  "version": "0.15.0",
-  "datum": "2026-11-17",
+  "version": "0.15.1",
+  "datum": "2026-11-18",
   "notizen": [
-    "Schnelleres Kopieren: Erst wird kopiert, die Prüfung folgt am Ende (Einstellung „Nach dem Kopieren prüfen“); der Fortschritt zeigt Kopieren und Prüfen getrennt, eine offene Prüfung wird später fortgesetzt",
-    "Import von der Karte: Standardmäßig kommen nur Video, Foto und Ton mit; Drehtag- und Kamera-Ordner sind wählbar, Kartenordner ordnest du per Ziehen zu, und Plattenwart merkt sich das",
-    "Aufgeräumte Oberfläche: weniger Text, Erklärungen hinter einem Info-Symbol, Symbole statt Textknöpfe, eine einzige Meldungsleiste, Filter hinter einem Symbol, Spalten ein- und ausblendbar",
-    "Der Inhalt einer Kamerakarte oder neuen Platte ist sofort sichtbar, dazu was davon schon importiert ist",
-    "Neue Vorlage „Mehrtägiger Dreh“ (Footage je Kamera und Drehtag); im Vorlagen-Editor ein größerer Baum mit klarer Einrückung",
-    "Einfachere Befehle: Statt vieler Einzel-Knöpfe gibt es „Kopieren …“ mit klarer Vorschau; Kamerakarten sind eine eigene Gruppe und lassen sich mit einem Klick importieren",
-    "Verteilte Projekte über mehrere Platten, Warnung bei einem Teil ohne Backup; Hinweis, wenn ein Projekt mehr Kopien hat als nötig",
-    "Mehr Sicherheit im Team: Rollen, Papierkorb und Protokoll; gesperrte oder entfernte Konten treten erst nach deiner Freigabe wieder bei",
-    "Profil mit Bild und mehrere Arbeitsbereiche, zwischen denen du wechselst",
-    "Schnellerer Start, Vollbild und breite Fenster: Listen füllen den Platz, Spalten und Leisten lassen sich ziehen"
+    "Unter „Nach Updates suchen“ in den Einstellungen steht jetzt immer ein klarer Stand: „Jetzt installieren“ bzw. „Neu starten und installieren“ oder in einem Satz der Grund, warum es gerade nicht geht, mit „Erneut versuchen“",
+    "Abmelden und „Konto löschen …“ stehen zusammen unten im Profil, ohne eigene Überschrift",
+    "Einstellungen ▸ Allgemein: Ausgeblendete Platten als Liste mit Plus; „Empfangen von Übertragungen“ ist aus der Ansicht „Übertragungen“ hierher umgezogen",
+    "Pro Einstellung nur noch ein Info-Symbol (zum Beispiel bei den Updates)",
+    "Neuer Knopf „Rückmeldung geben …“ unter „Hilfe und Rechtliches“",
+    "Zusammenarbeit: Die Reiterliste springt nicht mehr; „Meine Arbeitsbereiche“ erscheint erst, wenn es mehr als einen Bereich oder weitere Mitglieder gibt; Einladen und Beitreten stehen ohne Zwischenüberschriften",
+    "Vorlagen: Bearbeiten und Löschen sind an jeder Zeile sofort da, auch bei den mitgelieferten Vorlagen (vorher musste man erst den Stern an- und ausschalten)",
+    "Projekt-Ansicht rechts: Eigenschaften und Notiz sind immer aufgeklappt, das Bild hat eine Überschrift, die Felder haben Abstand",
+    "Info-Texte hinter dem Info-Symbol liegen jetzt immer im Vordergrund und bleiben ganz im Fenster, auch am Rand der Einstellungen"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.0/Plattenwart-0.15.0-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.0/Plattenwart-0.15.0.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.1/Plattenwart-0.15.1-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.1/Plattenwart-0.15.1.dmg"
   },
   "sha256": {
-    "mac-arm64": "67ae5b8138a97d73cb461a4ce6ab80ac56da34807a02fdeaf0fdaf23396c70d2",
-    "mac-x64": "ce32bef629419b40f0c3c0e72f7d4c93b118fbdad346ec62fe3a9b7cbed25b55"
+    "mac-arm64": "d4f2cb29889bebbc7de13b71d5adac0299424f26a9cc2767c0148ee2bbec4e39",
+    "mac-x64": "2aa8099bb7baf99fe83e86f72c69609f64f58df28ef4d1a6f11e83868dcdeee3"
   }
 }
