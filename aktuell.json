@@ -1,16 +1,18 @@
 {
-  "version": "0.15.2",
+  "version": "0.15.3",
   "datum": "2026-11-18",
   "notizen": [
-    "Dateilisten: Sehr große alte Dateilisten werden im Hintergrund jetzt in kleinen Schritten umgestellt (weniger Speicher, bei Netzfehlern erneuter Versuch); was nicht klappt, steht unter Einstellungen ▸ Allgemein mit Grund und wird automatisch nach 1, 6 und 24 Stunden erneut versucht"
+    "Scan: Nach einem Scan zeigt der Katalog die Platte genau so, wie sie jetzt ist. Ein im Finder verschobener, umbenannter oder gelöschter Ordner steht nicht mehr im alten Überordner; ein verschobener Projektordner nimmt seine Projekt-Zuordnung mit, wenn er zweifelsfrei wiedererkannt wird",
+    "Platte: Hat sich bei einem Scan sehr viel geändert, fragt Plattenwart nach, ob es dieselbe Platte ist, bevor es etwas speichert. Bei „Andere Platte“ wird sie neu angelegt, die bisherige bleibt im Katalog",
+    "Umbenennen: Ordner und Dateien lassen sich per Rechtsklick „Umbenennen …“ auch auf der Platte umbenennen, solange sie an diesem Gerät hängt und eine Plattenwart-Kennung trägt. Es wird dabei nie etwas überschrieben"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.2/Plattenwart-0.15.2-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.2/Plattenwart-0.15.2.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.3/Plattenwart-0.15.3-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.3/Plattenwart-0.15.3.dmg"
   },
   "sha256": {
-    "mac-arm64": "aa01da46f359265641a8634c0f5ae822213b2fdab3d18f3827169e0c75912fe6",
-    "mac-x64": "8ee2f7d7d92820bf0549c4684e314ecfe487e1a92536d6458e5cca39d05819a4"
+    "mac-arm64": "942ae96bef18fd7ae93b6acb806e89483e27c62caff68af3a8cdc4a6dbf0681f",
+    "mac-x64": "03367d673bade3bf8ea4a3042ee45bb125d2e2d0d0ec8eb6134a0c666a77642c"
   }
 }
