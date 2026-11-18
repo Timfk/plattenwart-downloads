@@ -1,5 +1,15 @@
 [
   {
+    "version": "0.15.2",
+    "datum": "2026-11-18",
+    "notizen": [
+      "Dateilisten: Sehr große alte Dateilisten werden im Hintergrund jetzt in kleinen Schritten umgestellt (weniger Speicher, bei Netzfehlern erneuter Versuch); was nicht klappt, steht unter Einstellungen ▸ Allgemein mit Grund und wird automatisch nach 1, 6 und 24 Stunden erneut versucht"
+    ],
+    "notizen_en": [
+      "File lists: very large old file lists are now converted in the background in small steps (less memory, retry on network errors); anything that does not work is shown under Settings ▸ General with the reason and is tried again automatically after 1, 6 and 24 hours"
+    ]
+  },
+  {
     "version": "0.15.1",
     "datum": "2026-11-18",
     "notizen": [
