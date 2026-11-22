@@ -1,18 +1,21 @@
 {
-  "version": "0.15.3",
-  "datum": "2026-11-18",
+  "version": "0.15.7",
+  "datum": "2026-11-22",
   "notizen": [
-    "Scan: Nach einem Scan zeigt der Katalog die Platte genau so, wie sie jetzt ist. Ein im Finder verschobener, umbenannter oder gelöschter Ordner steht nicht mehr im alten Überordner; ein verschobener Projektordner nimmt seine Projekt-Zuordnung mit, wenn er zweifelsfrei wiedererkannt wird",
-    "Platte: Hat sich bei einem Scan sehr viel geändert, fragt Plattenwart nach, ob es dieselbe Platte ist, bevor es etwas speichert. Bei „Andere Platte“ wird sie neu angelegt, die bisherige bleibt im Katalog",
-    "Umbenennen: Ordner und Dateien lassen sich per Rechtsklick „Umbenennen …“ auch auf der Platte umbenennen, solange sie an diesem Gerät hängt und eine Plattenwart-Kennung trägt. Es wird dabei nie etwas überschrieben"
+    "Verschieben: Das Original geht erst in den Papierkorb, wenn jede Datei inhaltlich geprüft und wirklich auf die Zielplatte geschrieben ist und die Platte noch dieselbe ist",
+    "Prüfen: Beim Kopieren und Sichern wählst du „Exakt“ (Inhalt jeder Datei) oder „Schnell“ (Anzahl, Namen, Größe). „Schnell“ gilt nie als geprüft",
+    "Prüfung im Hintergrund: Bei „Exakt“ ist die Kopie sofort fertig, die Prüfung läuft danach weiter und macht anderen Vorgängen Platz. In der Warteschlange wird weiter sofort geprüft",
+    "Gemeinsame Projekte: Plattenwart kann Projektnamen mit anderen Helfern auf diesem Mac teilen (Einstellungen ▸ Allgemein). Aus, bis du es einschaltest; es entsteht nie etwas ohne dein Ja",
+    "Sicherheit: Der Einladungscode ist nur noch für Inhaber und Admins sichtbar. Konto löschen und Inhaberschaft übergeben verlangen eine frische Anmeldung mit Passwort",
+    "Technik: Electron 43; Ordnerdialoge merken sich den zuletzt gewählten Ordner"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.3/Plattenwart-0.15.3-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.3/Plattenwart-0.15.3.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.7/Plattenwart-0.15.7-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.7/Plattenwart-0.15.7.dmg"
   },
   "sha256": {
-    "mac-arm64": "942ae96bef18fd7ae93b6acb806e89483e27c62caff68af3a8cdc4a6dbf0681f",
-    "mac-x64": "03367d673bade3bf8ea4a3042ee45bb125d2e2d0d0ec8eb6134a0c666a77642c"
+    "mac-arm64": "60656c5fa48eb23006c11ef80b76a6ef21ba23321dd0493855b78280f20efa72",
+    "mac-x64": "39527a3f26510c9239f9fbd1f4ac0b5d01824dd7af2062b4edee1169cd570b71"
   }
 }
