@@ -1,5 +1,25 @@
 [
   {
+    "version": "0.15.7",
+    "datum": "2026-11-22",
+    "notizen": [
+      "Verschieben: Das Original geht erst in den Papierkorb, wenn jede Datei inhaltlich geprüft und wirklich auf die Zielplatte geschrieben ist und die Platte noch dieselbe ist",
+      "Prüfen: Beim Kopieren und Sichern wählst du „Exakt“ (Inhalt jeder Datei) oder „Schnell“ (Anzahl, Namen, Größe). „Schnell“ gilt nie als geprüft",
+      "Prüfung im Hintergrund: Bei „Exakt“ ist die Kopie sofort fertig, die Prüfung läuft danach weiter und macht anderen Vorgängen Platz. In der Warteschlange wird weiter sofort geprüft",
+      "Gemeinsame Projekte: Plattenwart kann Projektnamen mit anderen Helfern auf diesem Mac teilen (Einstellungen ▸ Allgemein). Aus, bis du es einschaltest; es entsteht nie etwas ohne dein Ja",
+      "Sicherheit: Der Einladungscode ist nur noch für Inhaber und Admins sichtbar. Konto löschen und Inhaberschaft übergeben verlangen eine frische Anmeldung mit Passwort",
+      "Technik: Electron 43; Ordnerdialoge merken sich den zuletzt gewählten Ordner"
+    ],
+    "notizen_en": [
+      "Move: The original only goes to the Trash once every file has been verified by content and actually written to the target disk, and the disk is still the same one",
+      "Verification: When copying and backing up you choose “Exact” (content of every file) or “Quick” (count, names, sizes). “Quick” never counts as verified",
+      "Background verification: With “Exact” the copy is done right away; verification continues afterwards and yields to other operations. The queue still verifies immediately",
+      "Shared projects: Plattenwart can share project names with other helper apps on this Mac (Settings ▸ General). Off until you turn it on; nothing is created without your consent",
+      "Security: The invite code is now visible to owners and admins only. Deleting your account and transferring ownership require a fresh password sign-in",
+      "Under the hood: Electron 43; folder dialogs remember the last folder you chose"
+    ]
+  },
+  {
     "version": "0.15.3",
     "datum": "2026-11-18",
     "notizen": [
