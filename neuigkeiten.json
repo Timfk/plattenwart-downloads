@@ -1,5 +1,29 @@
 [
   {
+    "version": "0.16.0",
+    "datum": "2026-11-23",
+    "notizen": [
+      "Team: Du siehst, welche Platten gerade an den anderen Geräten im Team hängen, und kannst von dort etwas holen. Beide Seiten bestätigen mit einem Klick; das Anzeigen lässt sich in den Einstellungen ausschalten",
+      "Kategorien: Neben SSD und HDD legst du eigene Platten-Kategorien an",
+      "Übertragungen: Die Seitenleiste zeigt den Stand mit Farbe und Ladeleiste, die Übersicht den ganzen Pfad",
+      "Rechte Spalte: Sie zeigt immer, was du zuletzt angeklickt hast, auch wenn du nur einen Haken setzt",
+      "Ansichtswechsel: Aufgeklappte Ordner und die Scroll-Position bleiben je Platte und Projekt erhalten",
+      "Inspektor: Oben steht „Kopieren …“; „Im Finder zeigen“ liegt unter „Mehr“",
+      "Konto: Zahnrad am Konto unten links und ein Hinweis, wenn Zwei-Faktor aus ist (lässt sich wegklicken)",
+      "Behoben: Escape schließt das Einstellungen-Fenster wieder zuverlässig"
+    ],
+    "notizen_en": [
+      "Team: See which drives are currently connected to the other devices in your team and fetch from there. Both sides confirm with a click; you can turn the listing off in Settings",
+      "Categories: Create your own drive categories next to SSD and HDD",
+      "Transfers: The sidebar shows progress with colour and a progress bar, the overview shows the full path",
+      "Right column: It always shows what you clicked last, even if you only ticked a checkbox",
+      "Switching views: Expanded folders and the scroll position are kept per drive and project",
+      "Inspector: “Copy …” is now on top; “Show in Finder” moved to “More”",
+      "Account: Gear icon next to your account at the bottom left, and a hint when two-factor is off (can be dismissed)",
+      "Fixed: Escape reliably closes the Settings window again"
+    ]
+  },
+  {
     "version": "0.15.7",
     "datum": "2026-11-22",
     "notizen": [
