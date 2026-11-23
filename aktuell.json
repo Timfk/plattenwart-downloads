@@ -1,21 +1,23 @@
 {
-  "version": "0.15.7",
-  "datum": "2026-11-22",
+  "version": "0.16.0",
+  "datum": "2026-11-23",
   "notizen": [
-    "Verschieben: Das Original geht erst in den Papierkorb, wenn jede Datei inhaltlich geprüft und wirklich auf die Zielplatte geschrieben ist und die Platte noch dieselbe ist",
-    "Prüfen: Beim Kopieren und Sichern wählst du „Exakt“ (Inhalt jeder Datei) oder „Schnell“ (Anzahl, Namen, Größe). „Schnell“ gilt nie als geprüft",
-    "Prüfung im Hintergrund: Bei „Exakt“ ist die Kopie sofort fertig, die Prüfung läuft danach weiter und macht anderen Vorgängen Platz. In der Warteschlange wird weiter sofort geprüft",
-    "Gemeinsame Projekte: Plattenwart kann Projektnamen mit anderen Helfern auf diesem Mac teilen (Einstellungen ▸ Allgemein). Aus, bis du es einschaltest; es entsteht nie etwas ohne dein Ja",
-    "Sicherheit: Der Einladungscode ist nur noch für Inhaber und Admins sichtbar. Konto löschen und Inhaberschaft übergeben verlangen eine frische Anmeldung mit Passwort",
-    "Technik: Electron 43; Ordnerdialoge merken sich den zuletzt gewählten Ordner"
+    "Team: Du siehst, welche Platten gerade an den anderen Geräten im Team hängen, und kannst von dort etwas holen. Beide Seiten bestätigen mit einem Klick; das Anzeigen lässt sich in den Einstellungen ausschalten",
+    "Kategorien: Neben SSD und HDD legst du eigene Platten-Kategorien an",
+    "Übertragungen: Die Seitenleiste zeigt den Stand mit Farbe und Ladeleiste, die Übersicht den ganzen Pfad",
+    "Rechte Spalte: Sie zeigt immer, was du zuletzt angeklickt hast, auch wenn du nur einen Haken setzt",
+    "Ansichtswechsel: Aufgeklappte Ordner und die Scroll-Position bleiben je Platte und Projekt erhalten",
+    "Inspektor: Oben steht „Kopieren …“; „Im Finder zeigen“ liegt unter „Mehr“",
+    "Konto: Zahnrad am Konto unten links und ein Hinweis, wenn Zwei-Faktor aus ist (lässt sich wegklicken)",
+    "Behoben: Escape schließt das Einstellungen-Fenster wieder zuverlässig"
   ],
   "pflicht": false,
   "downloads": {
-    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.7/Plattenwart-0.15.7-arm64.dmg",
-    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.15.7/Plattenwart-0.15.7.dmg"
+    "mac-arm64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.16.0/Plattenwart-0.16.0-arm64.dmg",
+    "mac-x64": "https://github.com/Timfk/plattenwart-downloads/releases/download/v0.16.0/Plattenwart-0.16.0.dmg"
   },
   "sha256": {
-    "mac-arm64": "60656c5fa48eb23006c11ef80b76a6ef21ba23321dd0493855b78280f20efa72",
-    "mac-x64": "39527a3f26510c9239f9fbd1f4ac0b5d01824dd7af2062b4edee1169cd570b71"
+    "mac-arm64": "233657ad6b7e9b38765f753aed565a135d22fddd27225beb2fe295e400c6c1f9",
+    "mac-x64": "ce2ebb5b486b860b1454d6528c415ab6c31b67cb78ba9c69443cf06c8510f053"
   }
 }
